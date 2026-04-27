@@ -39,3 +39,8 @@ A sophisticated cross-platform audio application built with **C++** and the **JU
 * `PlayerAudio`: Handles the audio backend, resampling, and transport logic.
 * `PlayerGUI`: Manages the visual components, waveform rendering, and user input.
 * `MainComponent`: Orchestrates the two players and the central mixing logic.
+
+👥 Team Members
+* Maryam Nabil
+* Firas Adnan
+* Rodina Ahmed
